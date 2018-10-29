@@ -1,0 +1,13 @@
+{
+    "name": "orangesan/02",
+    "authors": [
+        {
+            "name": "sanal",
+            "email": "oragnesanfire@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/validator": "^4.1",
+        "phpunit/phpunit": "^7.4"
+    }
+}
